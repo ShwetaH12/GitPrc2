@@ -5,4 +5,15 @@
   <version>0.0.1-SNAPSHOT</version>
   <name>GitPrc</name>
   <description>GitPrc</description>
+  
+  <dependencies>
+  
+  <!-- https://mvnrepository.com/artifact/org.testng/testng -->
+<dependency>
+    <groupId>org.testng</groupId>
+    <artifactId>testng</artifactId>
+    <version>7.8.0</version>
+    <scope>test</scope>
+</dependency>
+  </dependencies>
 </project>
